@@ -1,0 +1,13 @@
+{
+  "name": "just-entered-server",
+  "version": "1.0.0",
+  "description": "Server for Discord bot.",
+  "main": "index.js",
+  "repository": "https://github.com/lako90/just-entered-server.git",
+  "author": "Luca Perna <lucaprn@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.io": "^2.5.3"
+  }
+}
