@@ -7,7 +7,15 @@
   "author": "Luca Perna <lucaprn@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon --inspect index.js"
+  },
   "dependencies": {
-    "discord.io": "^2.5.3"
+    "discord.js": "^11.3.2",
+    "node-telegram-bot-api": "^0.30.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
   }
 }

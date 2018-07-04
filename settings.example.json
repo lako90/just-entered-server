@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "discordToken": "<DISCORD APP TOKEN>",
+    "telegramToken": "<TELEGRAM APP TOKEN>"
+  },
+  "discordMonitoredChannels": [
+    {
+      "id": "<ID DISCORD MONITORED CHANNEL>",
+      "name": "<LABEL DISCORD MONITORED CHANNEL>"
+    }
+  ]
+}
